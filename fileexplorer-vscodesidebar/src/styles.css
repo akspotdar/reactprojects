@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.container {
+  margin-left: 20px; /* Indent nested items */
+}
+
+.container div {
+  margin-top: 5px; /* Spacing between items */
+}
+
+.icon {
+  width: 16px;
+  height: 16px;
+  margin-left: 8px;
+  cursor: pointer;
+  vertical-align: middle; /* Align icon nicely with text */
+}
+
+span {
+  margin-right: 5px; /* Spacing around elements */
+  cursor: default; /* Default cursor for text */
+}
+
+span:first-of-type {
+  /* Style for the expand/collapse toggle */
+  cursor: pointer;
+  font-weight: bold;
+  display: inline-block;
+  width: 15px; /* Ensure consistent spacing */
+}
