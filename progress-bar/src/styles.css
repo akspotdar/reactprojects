@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.progress-bar-container {
+  border: 1px solid black;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 10px 0;
+}
+
+.progress-bar-inner {
+  background-color: green;
+  color: white;
+  padding: 1px;
+  text-align: right;
+  transition: 0.5s ease-in;
+}
