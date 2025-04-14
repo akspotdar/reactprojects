@@ -7,3 +7,4 @@ Topics -
 1. [Interactive JIRA Velocity Bar Chart](interactive-barchart/outputs/o1.png)
 2. [File Explorer / VSCode Sidebar UI](fileexplorer-vscodesidebar/outputs/o1.png)
 3. [Progress Bar](progress-bar/outputs/o1.png)
+4. [Country - Capital Game](country-capital-game/outputs/o1.png)
