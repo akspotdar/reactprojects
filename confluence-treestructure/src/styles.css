@@ -1,0 +1,40 @@
+.sidebar {
+  width: 300px;
+  height: 100vh;
+  background-color: #2f3640;
+  color: white;
+  padding: 20px;
+}
+
+.nodes li {
+  list-style: none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.nodes li a {
+  color: #0097e6;
+  text-decoration: none;
+}
+
+.nodes li a:hover {
+  text-decoration: underline;
+}
+
+.node .label {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.node .label span {
+  line-height: 0;
+  cursor: pointer;
+}
+
+.node-contents ul {
+  padding-left: 16px;
+}
